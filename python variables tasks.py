@@ -8,7 +8,8 @@
 x=
 #2 Create an integer variable named y
 
-y=
+y=3
+print (y)
 #3 Create a float variable named z
 
 z=

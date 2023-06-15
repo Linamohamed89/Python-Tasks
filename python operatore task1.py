@@ -9,12 +9,16 @@ x=5
 print(x) 
 print(x==5)# -->> bool
 
+# The = is a simple assignment operator. It assigns values from right side operands to the left side operand. While on the other hand == checks if the values of two operands are equal or not.
+
 #2 What do we mean by using !=
 
 x=10
 print(x !=10)
 
 #3 What is the operator precedence
+
+
 
 #4 Create a variable x with value of 10
 

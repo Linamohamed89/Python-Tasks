@@ -56,7 +56,9 @@ if userrname=='Lina' or password==1234:
 #6. If we need all the conditions to be true we will use ....
 
 
+
 #7. What is the differences between if , elif
+
 
 
 #8. What is the differences between elif else
@@ -79,19 +81,29 @@ if userrname=='Lina' or password==1234:
 
 
 #14. if we have this list [2,4,6,8,10] :
+    #1. check to see if 4 in this list or not
 
-
-
-#1. check to see if 4 in this list or not
-
-
+list=[2,4,6,8,10]
+if 4 in list:
+    print('4 in this list')
 
 #2. check to see if 4 and 6 in this list on not
 
-
+list=[2,4,6,8,10]
+if 4 and 6 in list:
+    print('4,6 in this list')
 
 #3. check to see if 3 or 6 in this list
 
-
+list=[2,4,6,8,10]
+if 3 or 6 in list:
+    print('Hello')
 
 #4. check to see if 2 , 4 and 5 in this list Python Conditions Tasks
+
+list=[2,4,6,8,10]
+if all([2,4,5]) in list:
+    print('Python Conditions tasks')
+
+else:
+    print('not found')

@@ -3,16 +3,53 @@
 #1. Check if 10 is bigger than 15 or not
 
 
+x=10
+if x>15:
+    print('x is not bigger than 15')
+
 #2. If 10 is not bigger than15 print x is smaller than 15
 
-
+x=10
+if x<15:
+    print('x is smaller than 15')
+    
 #3. In which cases we will use all
+
+
 
 
 #4. What is the differences between all , and
 
+x=5
+y=6
+z=7
+
+#and
+if x==5 and y==6 and z==7:
+    print('welcome')
+
+#all
+if all([x==5 , y==6 , z==7]):
+    print('Hello')
+
+
+#all +([ , , ])
+
 
 #5. What is the differences between any , or
+
+userrname='Lina'
+password=1234
+#or
+if userrname=='Lina' or password==1234:
+    print('Hi Lina')
+
+#any
+    if any ([userrname=='Lina' , password==1234]):
+        print('not found')
+
+#any +([ , , ])
+        
 
 
 

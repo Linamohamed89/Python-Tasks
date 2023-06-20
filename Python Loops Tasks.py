@@ -28,6 +28,8 @@ while x >= 5 : print(x);x +=1
 
 
 #5. Print multiplication table from 1 to 5
+
+
 #6. How to get numbers from 10 to 20 using range
 
 # Generate numbers between 10 to 20
@@ -46,5 +48,14 @@ print ('----------------------')
 
 
 #8. Get a list of even numbers from 1 to 100 using for
+
+
 #9. Get a list of even numbers from 1 to 100 using while
+
+
+
 #10. Get a list of even numbers from 1 to 100 using range
+
+
+
+

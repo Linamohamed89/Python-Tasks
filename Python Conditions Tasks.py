@@ -54,7 +54,14 @@ if userrname=='Lina' or password==1234:
 
 
 #6. If we need all the conditions to be true we will use ....
+'''
+L='Lina'
+B='Bisherr'
+M='Margana'
 
+if all ([L=='Lina',B=='Bisherr',M=='Margana']):
+    print(True)
+'''
 
 
 #7. What is the differences between if , elif

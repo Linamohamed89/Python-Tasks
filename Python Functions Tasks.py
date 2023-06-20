@@ -6,10 +6,19 @@
 
 #1. Create a simple function that takes 2 numbers and print their values
 
+def mynummber (x,y):
+    print(x+y)
+
+mynummber(3,4)
 
 #2. Create a simple function that takes 2 numbers and return their values
 
+def mynummber (x,y):
+    return x-y
+   
 
+L=mynummber(3,4)
+print(L)
 
 #3. In the above return function , use keyword arguments when calling the function
 

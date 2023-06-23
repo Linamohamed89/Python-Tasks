@@ -72,17 +72,20 @@ print('the code always checks to see if an 'if' statement is true, checks 'elif'
 
 #8. What is the differences between elif else
 
-
+print('The elif allows us to tie multiple if statements together but 
+ else runs only when the conditions for all attached if and elif statements are false.')
 
 
 #9. Can we use more than one elif
 
-print('ja')
+print('yes , we can ')
 
 #10. Can we use more than one else
 
+print('no , we can not')
 
 #11. write s simple ternary operator
+
 
 
 #12. in elif , python will check all the conditions no matter what ?

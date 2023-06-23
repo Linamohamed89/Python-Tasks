@@ -15,7 +15,9 @@ if x<15:
     
 #3. In which cases we will use all
 
-
+x,y,z=2,4,6
+if all([x==2,y==4,z==6]):
+    print(True)
 
 
 #4. What is the differences between all , and

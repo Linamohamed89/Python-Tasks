@@ -43,7 +43,10 @@ print('-------------------------------------')
 
 #5. Print multiplication table from 1 to 5
 
-    
+for x in range(1,6):
+    print('-----------')
+    for y in range (1,11):
+        print(x,'*',y,'=',x*y)
 
 print('-------------------------------------')
 #6. How to get numbers from 10 to 20 using range

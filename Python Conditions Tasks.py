@@ -68,13 +68,16 @@ if all ([L=='Lina',B=='Bisherr',M=='Margana']):
 
 #7. What is the differences between if , elif
 
-
+print('the code always checks to see if an 'if' statement is true, checks 'elif' statements only if each 'if' and 'elif' statement above it is false')
 
 #8. What is the differences between elif else
 
 
+
+
 #9. Can we use more than one elif
 
+print('ja')
 
 #10. Can we use more than one else
 

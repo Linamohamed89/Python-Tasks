@@ -12,7 +12,8 @@ print(x==5)# -->> bool
 
 
 
-# The = is a simple assignment operator. It assigns values from right side operands to the left side operand. While on the other hand == checks if the values of two operands are equal or not.
+# The = is a simple assignment operator. It assigns values from right side operands to the left side operand.
+#While on the other hand == checks if the values of two operands are equal or not.
 
 #2 What do we mean by using !=
 
@@ -21,7 +22,9 @@ print(x !=10)
 
 #3 What is the operator precedence
 
+print('Operator precedence in Python simply refers to the order of operations.')
 
+print('10+5*5=22 / (10+5)*5=125')
 
 #4 Create a variable x with value of 10
 

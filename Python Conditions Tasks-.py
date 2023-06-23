@@ -98,6 +98,8 @@ els:
 #12. in elif , python will check all the conditions no matter what ?
 
 
+print('just in the case of if ')
+
 
 #13. in elif we use else for ... ?
 

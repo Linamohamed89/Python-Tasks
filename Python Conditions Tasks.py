@@ -68,12 +68,11 @@ if all ([L=='Lina',B=='Bisherr',M=='Margana']):
 
 #7. What is the differences between if , elif
 
-print('the code always checks to see if an 'if' statement is true, checks 'elif' statements only if each 'if' and 'elif' statement above it is false')
+print("the code always checks to see if an 'if' statement is true, checks 'elif' statements only if each 'if' and 'elif' statement above it is false")
 
 #8. What is the differences between elif else
 
-print('The elif allows us to tie multiple if statements together but 
- else runs only when the conditions for all attached if and elif statements are false.')
+print("The elif allows us to tie multiple if statements together but else runs only when the conditions for all attached if and elif statements are false.")
 
 
 #9. Can we use more than one elif
@@ -86,8 +85,16 @@ print('no , we can not')
 
 #11. write s simple ternary operator
 
+movieRate=18
+age=18
+print('Movie is Not Good 4U' if age < movieRate else 'Movie is Good 4U And Happy Watching')
 
-
+'''
+if age < movieRate:
+    print('Movie is Not Good 4U')
+els:
+    print('Movie is Good 4U And Happy Watching')
+'''
 #12. in elif , python will check all the conditions no matter what ?
 
 

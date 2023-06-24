@@ -22,7 +22,11 @@ print(L)
 
 #3. In the above return function , use keyword arguments when calling the function
 
+def mysum2(x,y):
+    return x , y
 
+a=mysum2(y=7,x=3)
+print(a)
 
 #4. In the above return function , give x and y default values of 0 and call the function with no arguments
 

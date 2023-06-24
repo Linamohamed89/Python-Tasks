@@ -33,8 +33,12 @@ print(L)
 
 #6. Create the same sum function using the lambda
 
+hello= lambda name :f"Hello {name}"
+print(hello("ahmed"))
+
 
 #7. Call the lambda function at the same definition line
 
+hello= lambda name :f"Hello {name}";print(hello("ahmed"))
 
 #8. Write the difference between the local variable and global variable

@@ -26,9 +26,20 @@ print(L)
 
 #4. In the above return function , give x and y default values of 0 and call the function with no arguments
 
-
+def mysum2(x=0,y=0):
+    return x ,y
+a=mysum2()
+print(a)
 
 #5. Create a function that can take any number of arguments and print the sum of them
+
+
+def mysum2(x=0,y=0):
+    return x ,y
+a=mysum2(3,7)
+print(a)
+
+
 
 
 #6. Create the same sum function using the lambda

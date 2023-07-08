@@ -9,7 +9,7 @@ l=2
 n=19
 print(l==n)
 print(type(l==n))
-
+#False
 
 #2 Create an integer variable named y
 

@@ -16,6 +16,7 @@ print(type(l==n))
 y=3
 print (y)
 print(type(y))
+#<class 'bool'>
 
 #3 Create a float variable named z
 
